@@ -7,4 +7,6 @@ https://github.com/RuoxiQin/Unmanned-Aerial-Vehicle-Tracking     （UAV追踪）
 https://github.com/Irenetema/SimpleTwoAgentsRLTracking（在网格世界环境中移动的两个智能体动态目标跟踪）    
 https://github.com/JiangSYX/Neural-network-target-tracking   （神经网络通过获取目标坐标和自己的坐标来计算移动方向，以跟踪目标）    
 https://github.com/nitzmali/Probabilistic-hunting   （开发了一种基于概率的搜索，用于在不同地形中搜索目标，包括静止和移动目标）
-1
+https://github.com/ojindal/Motion-Planning-Moving-target (一种基于搜索的运动规划算法来摘截运动目标,以、已经clone可试)
+https://github.com/Johnkhk/ARA-star-and-RRT-algorithm   
+https://github.com/SambaranRepo/Motion-Planning
