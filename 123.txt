@@ -1,1 +1,1 @@
-123546
+123546       https://tagcdnsub.com/api/v1/client/subscribe?token=b8f6ab52617e6da68245909afcc10d68
