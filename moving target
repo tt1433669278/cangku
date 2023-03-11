@@ -10,3 +10,7 @@ https://github.com/nitzmali/Probabilistic-hunting   （开发了一种基于概�
 https://github.com/ojindal/Motion-Planning-Moving-target (一种基于搜索的运动规划算法来摘截运动目标,以、已经clone可试)
 https://github.com/Johnkhk/ARA-star-and-RRT-algorithm   
 https://github.com/SambaranRepo/Motion-Planning
+https://github.com/perseus784/Multi-Robot_Exploration    (给定一个探索和查找对象的区域，在代理之间平均划分工作/区域，并使用协作感知消息作为该领域所有代理的常识来共享找到的对象)    
+https://arxiv.org/abs/1905.12127                        (通过内在奖励进行多智能体强化学习的协调探索)   
+https://github.com/shariqiqbal2810/Multi-Explore        (“多智能体强化学习的内在奖励协调探索”代码)   
+https://github.com/search?l=Python&q=multi+agent+exploration&type=Repositories      多智能体的综合
